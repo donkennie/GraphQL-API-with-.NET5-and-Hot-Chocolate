@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLAuth", "GraphQLAuth\GraphQLAuth.csproj", "{63F89EE7-19C1-4326-9BD0-2C1F611306F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2CD95EB4-0C4D-4DC0-BEAF-AD9CDB2FF32E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F89EE7-19C1-4326-9BD0-2C1F611306F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F89EE7-19C1-4326-9BD0-2C1F611306F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F89EE7-19C1-4326-9BD0-2C1F611306F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F89EE7-19C1-4326-9BD0-2C1F611306F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5AE724B-B9DD-4307-9E86-0D614D31BF4D}
+	EndGlobalSection
+EndGlobal
